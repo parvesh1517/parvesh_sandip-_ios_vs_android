@@ -34,7 +34,7 @@ This is the comparison between IOS and Android
 
 **Smooth User Interface**: The user interface of iOS is renowned for being fluid and reliable. The smooth animations and simple movements make the experience more user-friendly.
 
-\*\* This is the reason why IOS is way better than android
+**This is the reason why IOS is way better than android**
 
 **Androids are far better than IOS - Sandip Thapa**
 
