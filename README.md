@@ -29,7 +29,7 @@ This is the comparison between IOS and Android
  
 **Optimisation of Hardware and Software**: Apple develops its own hardware and software, enabling tight integration and optimisation. Longer device lifespans and improved performance may arise from this.
 
-<img src="images/user interface.jpg>
+<img src="images/user interface.jpg">
  
 **Smooth User Interface**: The user interface of iOS is renowned for being fluid and reliable. The smooth animations and simple movements make the experience more user-friendly.
 
